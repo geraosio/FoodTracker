@@ -158,9 +158,11 @@
 				TargetAttributes = {
 					74CA509D2145D03300126284 = {
 						CreatedOnToolsVersion = 9.4.1;
+						LastSwiftMigration = 1000;
 					};
 					74CA50B12145D03400126284 = {
 						CreatedOnToolsVersion = 9.4.1;
+						LastSwiftMigration = 1000;
 						TestTargetID = 74CA509D2145D03300126284;
 					};
 				};
